@@ -1,5 +1,5 @@
 
-
+open terminal ..go to folder ...type npm start
 ### `npm start`
 
 Runs the app in the development mode.\
